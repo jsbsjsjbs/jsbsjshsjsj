@@ -36,26 +36,38 @@
 <h50>124.217.247.44</h50>
 <!-- malaysia3-->
 <h50>101.99.74.181</h50>
-<!-- webssh do1-->
+<!-- webssh do1 sg-->
 <h50>159.89.192.246</h50>
-<!-- webssh do2-->
+<!-- webssh do2 sg-->
 <h50>159.89.202.221</h50>
-<!-- webssh do3-->
+<!-- webssh do3 sg-->
 <h50>159.89.204.107</h50>
-<!-- webssh do4-->
+<!-- webssh do4 sg-->
 <h50>159.89.207.199</h50>
-<!-- webssh do5-->
+<!-- webssh do5 sg-->
 <h50>159.89.206.8</h50>
-<!-- webssh do6-->
+<!-- webssh do6 sg-->
 <h50>159.89.207.232</h50>
-<!-- webssh do7-->
+<!-- webssh do7 sg-->
 <h50>159.89.204.142</h50>
-<!-- webssh do8-->
+<!-- webssh do8 sg-->
 <h50>159.89.200.186</h50>
-<!-- webssh do9-->
+<!-- webssh do9 sg-->
 <h50>159.89.206.41</h50>
-<!-- webssh do10-->
+<!-- webssh do10 sg-->
 <h50>159.89.196.113</h50>
+<!-- webssh do1 us-->
+<h50>134.122.123.7</h50>
+<!-- webssh do1 uk-->
+<h50>134.209.181.0</h50>
+<!-- webssh do1 belanda-->
+<h50>142.93.228.89</h50>
+<!-- webssh do1 germany-->
+<h50>164.90.171.32</h50>
+<!-- webssh do1 canada-->
+<h50>138.197.148.165</h50>
+<!-- webssh do1 india-->
+<h50>143.244.130.85</h50>
 <!-- badboy7--> 
 <h50>43.225.108.143</h50>
 <!-- badboy8--> 
