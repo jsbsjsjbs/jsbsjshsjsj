@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-<!-- prem bknsn-->
+<!-- prem bk-->
 <h50>103.227.254.121</h50>
-<!-- prem bkhd-->
-<h50>103.227.254</h50>
 <!-- vipreborn -->
 <h50>103.227.253.190</h50>
 <!-- vip1 -->
